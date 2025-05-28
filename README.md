@@ -1,7 +1,7 @@
 # **myVSCodeSettings**
 
 ### *WINDOWS* 
-- <strong>%APPDATA%\Code\User</strong><span>(C:\Users\YourName\AppData\Roaming\Code\User)</span>
+- <strong>%APPDATA%\Code\User </strong><span> (C:\Users\YourName\AppData\Roaming\Code\User)</span>
 
 
 ### *LINUX*
